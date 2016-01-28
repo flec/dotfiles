@@ -1,4 +1,4 @@
 Installation
 ============
 
-bash -c "$(curl -fsSL https://raw.github.com/joschi03/dotfiles/master/bin/dotfiles)" && source ~/.bashrc
+bash -c "$(curl -fsSL https://raw.github.com/flec/dotfiles/master/bin/dotfiles)" && source ~/.bashrc
