@@ -1,5 +1,2 @@
-#go path
+#add go path
 export GOPATH=$HOME/dev/go
-
-#add executables to path
-PATH=$PATH:$GOPATH/bin
